@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/*注释：在css当中可以使用，所有的编译过程但当中生成*/
+/*变量*/
+div {
+  background: #e92323;
+}
+a:hover {
+  color: #e92323;
+}
+/*# sourceMappingURL=test.css.map */
